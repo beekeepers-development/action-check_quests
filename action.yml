@@ -1,0 +1,8 @@
+name: 'Check Quests (Beekeepers)'
+description: ''
+outputs:
+  message:
+    description: 'The returned message'
+runs:
+  using: 'node20'
+  main: 'index.js'
